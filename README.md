@@ -24,6 +24,7 @@ I am Working On Python Projects 🐍
 My Own Courses 📚
 My Windows Clones 🪟
 I use a lot of AI So , you might see ai generated repos also . 
+My Most Projects made form AI Will be Free and Open Source .
 
 ## What You will get from me 
 
