@@ -1,5 +1,6 @@
 ## Hi Everyone, I am Kush 👋
-Virtual Machine Developer
+
+**I Can Add AI Generated Projects Also**
 ________________________________________________________________
 
 I am from India and I am very Good In Coding in : -
