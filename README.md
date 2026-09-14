@@ -50,13 +50,23 @@ Know My Name
 
       Kush 
 
+*Vibe Coding*
+-
+I Also Do That is i told most of my Projects can be AI Generated or AI Made 
+* Free Prompts
+  
+* Ollama Agents
+  
+* Cloud Based LLMs
+  
+* AI Cloud Vs Cloud Based AI Vs Local AI
+
+*Note - Some AI Projects can be Private Also*
+
+### **All Projects Will Be Made And Be Open Source**
+
 Follow Me On Github 
 
 [GitHub\KushVmDev](https://github.com) 
 
 --------------------------------------------------------------------------
-I Am Not In Social Media . 
-
-
-
-
