@@ -4,7 +4,8 @@
 ________________________________________________________________
 
 I am from India and I am very Good In Coding in : -
--- Windows User
+
+**-- Windows User --- Linux --- ChromeOS Also---**
 
 Python 🐍,
 HTML/CSS 🌐,
@@ -18,14 +19,21 @@ Artificial Intelligence And Machine Learning 🤖,
 
 ## About My Studies 
 
-I work in Python 🐍
-I Am Learning About Virtual Machines 🐧🪟🍎
-I Hate Mathematics 💀
-I am Working On Python Projects 🐍
-My Own Courses 📚
-My Windows Clones 🪟
-I use a lot of AI So , you might see ai generated repos also . 
-My Most Projects made form AI Will be Free and Open Source .
+* I work in Python 🐍
+
+* I Am Learning About Virtual Machines 🐧🪟🍎
+
+* I Hate Mathematics 💀
+
+* I am Working On Python Projects 🐍
+
+* My Own Courses 📚
+
+* Vibe Coder 👨‍💻
+
+* I use a lot of AI So , you might see ai generated repos also . 
+
+* My Most Projects made form AI Will be Free and Open Source .
 
 ## What You will get from me 
 
